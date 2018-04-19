@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PressMe</string>
+    <string name="hint">Volume in ml</string>
+    <color name="yellow">#FFCA5C</color>
+</resources>
